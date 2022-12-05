@@ -12,7 +12,8 @@ val headerImageResId: Int = 0,
 val headerImageUrl: String? = null,
 val teamUrl: String = "",
 var isFavorite: Boolean = false,
-var winPercentage: String = ""
+var winPercentage: String = "",
+var isBugs: Boolean = false
 )
 
 
